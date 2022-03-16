@@ -38,6 +38,8 @@ public class Sprint {
 		
 		System.out.println(print);
 		driver.quit();
+		driver.close();
+		System.out.println("Praveen");
 		
 		
 		

@@ -38,6 +38,8 @@ public class Sprint {
 		
 		System.out.println(print);
 		driver.quit();
+		System.out.println("Dinesh");
+		System.out.println("Good");
 		
 		
 		

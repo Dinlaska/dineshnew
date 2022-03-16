@@ -37,6 +37,7 @@ public class Sprint {
 		String print = txtPrint.getText();
 		
 		System.out.println(print);
+		driver.quit();
 		
 		
 		
